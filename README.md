@@ -1,6 +1,6 @@
 # Proyecto BEDU-Santander: Dementia
 
-Proyecto grupal de para el programa de "programación con BEDU" que consiste en el análisis de datos con el fin de generar un modelo de predicción que permita indicar de forma tentativa la posibilidad de que un paciente desarrolle en un futuro la enfermedad de Alzheimer.
+Proyecto grupal de para el programa de "programación con BEDU" que consiste en el análisis de datos con el fin de entender los desórdenes mentales en el mundo a lo largo de las últimas décadas, haciendo una especial énfasis en la depresión, que se considera como la mayor causa de discapacidad en el mundo.
 
 ## Índice
 
@@ -8,9 +8,9 @@ Video de la presentación:
 
 ## Miembros del equipo 👥
 
-Alfonso Valenciana Díaz
-Ricardo Ariel Estrada Pérez
-Mauricio Iván Martínez Carmona
+- Alfonso Valenciana Díaz
+- Ricardo Ariel Estrada Pérez
+- Mauricio Iván Martínez Carmona
 
 ## Justificación del problema
 

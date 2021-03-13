@@ -8,9 +8,9 @@ Video de la presentación:
 
 ## Miembros del equipo 👥
 
-Alfonso Valenciana Díaz
-Ricardo Ariel Estrada Pérez
-Mauricio Iván Martínez Carmona
+- Alfonso Valenciana Díaz
+- Ricardo Ariel Estrada Pérez
+- Mauricio Iván Martínez Carmona
 
 ## Justificación del problema
 

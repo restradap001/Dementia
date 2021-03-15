@@ -18,6 +18,18 @@ Para ejecutar este proyecto, solamente es necesario ejecutar el Jupyter Notebook
 
 Se recomienda ejecutar la celda de código <code>Instalación de librerías</code> al ejecutar el notebook por primera vez, con tal de asegurar que su equipo cuente con los paquetes necesarios.
 
+## Introducción
+
+De acuerdo a la OMS, las enfermedades o trastornos mentales son afecciones que impactan el pensamiento, sentimientos, estado de ánimo y comportamiento, pudiendo estas ser ocasionales o crónicas.
+
+Hay una gran variedad de trastornos mentales, cada uno de ellos con manifestaciones distintas. En general, se caracterizan por una combinación de alteraciones del pensamiento, la percepción, las emociones, la conducta y las relaciones con los demás. 
+
+Entre ellos se incluyen la depresión, el trastorno afectivo bipolar, la esquizofrenia y otras psicosis, la demencia, las discapacidades intelectuales y los trastornos del desarrollo, como el autismo.
+
+Los trastornos mentales pueden afectar muy negativamente al a la persona que los padece. Pueden hacerle sentir mal y causar problemas en varios aspectos de su vida cotidiana: en el trabajo, en el colegio y en las relaciones interpersonales.
+
+Resulta un tema de suma relevancia, ya que la prevalencia de estos padecimientos continúa aumentando, causando efectos considerables en la salud de las personas y graves consecuencias a nivel socioeconómico y en el ámbito de los derechos humanos en todos los países.
+
 ## Justificación del problema
 
 El presente proyecto busca generar un análisis de la evolución de diversos desórdenes mentales en el mundo a lo largo de las últimas décadas. Para este proyecto se hace especial énfasis en la depresión, ya que se cuenta con una base de información extremadamente bien documentada sobre este fenómeno en particular y, por otro lado, este desorden en particular se encuentra como una de las mayores causas de discapacidad en el mundo, siendo entonces su estudio y comprensión de suma importancia para un mayor entendimiento de sus causas, consecuencias, así como de sus posibles soluciones.

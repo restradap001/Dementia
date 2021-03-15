@@ -21,3 +21,18 @@ La OMS ha identificado fuertes vínculos entre la depresión y otros trastornos 
 La depresión también es un factor de riesgo importante para el suicidio, que reclama cientos de miles de vidas cada año.
 
 Es por esta razón que un análisis que nos permita estudiarla resulta sumamente relevante.
+
+## Referencias 📚
+
+- Dataset original: https://data.world/vizzup/mental-health-depression-disorder-data
+- Dataset complementario de regiones: https://www.kaggle.com/andradaolteanu/country-mapping-iso-continent-region
+
+- Schimelpfening, N. (2020). Differences in Suicide Among Men and Women. https://www.verywellmind.com/gender-differences-in-suicide-methods-1067508. March 14, 2021.
+
+- George, J. (2009). The Suicide Capital of the World, why do so many Greenlanders kill themselves? https://slate.com/news-and-politics/2009/10/why-do-so-many-greenlanders-kill-themselves.html. March 14, 2021.
+
+- Farrel, H. M. (2015). What is depression? https://www.youtube.com/watch?v=z-IR48Mb3W0. March 14, 2021.
+
+- Purriños, M. J. Escala de Hamilton ~ Hamilton Depresion Rating Scale (HDRS).https://meiga.info/escalas/depresion-escala-hamilton.PDF. March 14, 2021.
+
+- Ritchie H., et al. Suicide. https://ourworldindata.org/suicide. March 14, 2021.
